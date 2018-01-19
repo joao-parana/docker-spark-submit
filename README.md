@@ -1,5 +1,10 @@
 # docker-spark-submit
 
+## See the blog post
+
+[https://dzone.com/articles/running-apache-spark-applications-in-docker-contai](https://dzone.com/articles/running-apache-spark-applications-in-docker-contai)
+
+
 ## Docker image to run Spark applications
 
 Performs the following tasks:
